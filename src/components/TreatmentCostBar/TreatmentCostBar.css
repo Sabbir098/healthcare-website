@@ -1,0 +1,22 @@
+.treatment-title h2{
+    text-align: center;
+    margin-top: 150px;
+    font-size: 30px;
+    font-weight: 900;
+    color: rgb(70, 190, 238);
+}
+.card-title{
+    text-align: center;
+}
+.text-card{
+    margin-top: 25px;
+    margin-left: 25px;
+}
+.btn{
+    align-items: center;
+    text-align: center;
+    width: 300px;
+}
+.card-all{
+    margin-top: 40px;
+}

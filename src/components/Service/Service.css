@@ -1,0 +1,17 @@
+.service-container{
+    display: flex;
+}
+.service-name h2{
+    font-size: 22px;
+    font-weight: 900;
+}
+
+.service-logo img{
+    width: 50px;
+    background-color: skyblue;
+    padding: 6px;
+    border-start-start-radius: 5px;
+    border-collapse: 5px;
+    height: 50px;
+    margin-right: 20px;
+}

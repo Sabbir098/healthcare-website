@@ -1,0 +1,16 @@
+.footer-container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5rem;
+    padding: 2rem;
+    color: white;
+    background-color: rgb(5, 128, 177);
+
+}
+.quick-link{
+    display: flex;
+}
+.news{
+    border-bottom: 2px solid white;
+    width: 10rem;
+}

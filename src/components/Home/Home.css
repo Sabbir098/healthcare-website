@@ -1,0 +1,10 @@
+
+.title-container h1{
+    font-size: 48px;
+    font-weight: 800;
+ }
+ .title-container {
+     padding-top: 10rem;
+     padding-left: 4rem;
+    align-items: center;
+ }
